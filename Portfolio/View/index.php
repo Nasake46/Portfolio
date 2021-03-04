@@ -17,12 +17,6 @@
 	<link rel="stylesheet" href="assets/css/bootstrap-theme.css" media="screen" >
 	<link rel="stylesheet" href="assets/css/main.css">
 	<script src="https://kit.fontawesome.com/8aaac84553.js" crossorigin="anonymous"></script>
-
-	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	<!--[if lt IE 9]>
-	<script src="assets/js/html5shiv.js"></script>
-	<script src="assets/js/respond.min.js"></script>
-	<![endif]-->
 </head>
 
 <body class="home">
@@ -30,7 +24,6 @@
 	<div class="navbar navbar-inverse navbar-fixed-top headroom" >
 		<div class="container">
 			<div class="navbar-header">
-				<!-- Button for smallest screens -->
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 			</div>
 			<div class="navbar-collapse collapse">
@@ -39,12 +32,9 @@
 					<li><a href="about.php">A propos</a></li>
 					<li><a href="contact.php">Contact</a></li>
 				</ul>
-			</div><!--/.nav-collapse -->
+			</div>
 		</div>
 	</div> 
-	<!-- /.navbar -->
-
-	<!-- Header -->
 	<header id="head">
 		<div class="container">
 			<div class="row">
@@ -84,14 +74,9 @@
 						<p>Site ayant pour but d'aider un domaine particulier et d'optimiser le télétravail via un site qui enlèverait toutes les problématique de ce problème</p>
 					</div>
 				</div>
-			</div> <!-- /row  -->
+			</div> 
 		
 		</div>
-	<!-- /Highlights -->
-
-	<!-- /social links -->
-
-
 	<footer id="footer" class="top-space">
 
 		<div class="footer1">
@@ -131,7 +116,7 @@
 						</div>
 					</div>
 
-				</div> <!-- /row of widgets -->
+				</div> 
 			</div>
 		</div>
 
@@ -157,13 +142,12 @@
 						</div>
 					</div>
 
-				</div> <!-- /row of widgets -->
+				</div>
 			</div>
 		</div>
 
 	</footer>	
 
-	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 	<script src="assets/js/headroom.min.js"></script>
