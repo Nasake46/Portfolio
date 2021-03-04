@@ -18,19 +18,12 @@
 	<link rel="stylesheet" href="assets/css/main.css">
 	<script src="https://kit.fontawesome.com/8aaac84553.js" crossorigin="anonymous"></script>
 
-	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-	<!--[if lt IE 9]>
-	<script src="assets/js/html5shiv.js"></script>
-	<script src="assets/js/respond.min.js"></script>
-	<![endif]-->
 </head>
 
 <body>
-	<!-- Fixed navbar -->
 	<div class="navbar navbar-inverse navbar-fixed-top headroom" >
 		<div class="container">
 			<div class="navbar-header">
-				<!-- Button for smallest screens -->
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 			</div>
 			<div class="navbar-collapse collapse">
@@ -39,14 +32,12 @@
 					<li class="active"><a href="about.php">A propos</a></li>
 					<li><a href="contact.php">Contact</a></li>
 				</ul>
-			</div><!--/.nav-collapse -->
+			</div>
 		</div>
 	</div> 
-	<!-- /.navbar -->
 
 	<header id="head" class="secondary"></header>
 
-	<!-- container -->
 	<div class="container">
 
 		<ol class="breadcrumb">
@@ -59,7 +50,7 @@
 			<img src="assets/images/CV-Wilfrid.png" alt="">
 
 		</div>
-	</div>	<!-- /container -->
+	</div>
 	
 
 	<footer id="footer" class="top-space">
@@ -101,7 +92,7 @@
 						</div>
 					</div>
 
-				</div> <!-- /row of widgets -->
+				</div> 
 			</div>
 		</div>
 
@@ -127,16 +118,12 @@
 						</div>
 					</div>
 
-				</div> <!-- /row of widgets -->
+				</div> 
 			</div>
 		</div>
 	</footer>	
 		
 
-
-
-
-	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
 	<script src="assets/js/headroom.min.js"></script>
